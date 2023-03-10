@@ -16,7 +16,7 @@ ql repo https://ghproxy.com/https://github.com/365360171/qlwxyd.git
 ## 抓包
 青龙需要抓包m.*.shop域名下cookie
 
-安卓可以用 小黄鸟 HttpCanary https://www.bilibili.com/video/av292860564/
+安卓可以用 小黄鸟 HttpCanary 教程：https://www.bilibili.com/video/av292860564/
 
 PC可以用 smartsniff Wireshark 等抓取cookie
 
