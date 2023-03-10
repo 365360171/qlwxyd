@@ -1,10 +1,10 @@
 # 青龙薅羊毛-微信阅读
-在微信中打开  https://zl1222211708-1314804847.cos.ap-nanjing.myqcloud.com/index.html?upuid=10746751
+在微信中打开  `https://zl1222211708-1314804847.cos.ap-nanjing.myqcloud.com/index.html?upuid=10746751`
 
 打开后自动转跳阅读文章 空白页关闭后 重新打开 
 打开文章停5秒 手动返回上一页
 
-拉库：`l repo https://ghproxy.com/https://github.com/jiasai007/wxyd.git`
+拉库：`ql repo https://ghproxy.com/https://github.com/365360171/qlwxyd.git`
 
 青龙需要抓包m.*.shop域名下cookie,
 环境变量-新建变量 名称: wxyd  值:(你抓取的cookie)
