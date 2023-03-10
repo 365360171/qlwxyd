@@ -13,9 +13,8 @@ ql repo https://ghproxy.com/https://github.com/365360171/qlwxyd.git`
 操作编辑 定时规则为1小时一次 10 * * * *  <br>
 
 ## 抓包
-在微信扫码
+微信扫下面二维码，打开后自动转跳阅读文章 空白页关闭后 重新打开 打开文章停5秒 手动返回上一页
 <img src="https://github.com/365360171/qlwxyd/blob/main/1.png" alt="Clash" width="200">
-打开后自动转跳阅读文章 空白页关闭后 重新打开 打开文章停5秒 手动返回上一页
 
 青龙需要抓包m.*.shop域名下cookie,
 环境变量-新建变量 名称: wxyd  值:(你抓取的cookie)
