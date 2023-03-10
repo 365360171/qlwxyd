@@ -4,7 +4,7 @@
 打开后自动转跳阅读文章 空白页关闭后 重新打开 
 打开文章停5秒 手动返回上一页
 
-拉库：ql repo https://ghproxy.com/https://github.com/jiasai007/wxyd.git
+拉库：'ql repo https://ghproxy.com/https://github.com/jiasai007/wxyd.git'
 青龙需要抓包m.*.shop域名下cookie,
 环境变量-新建变量 名称: wxyd  值:(你抓取的cookie)
 多个账户回车换行隔开
