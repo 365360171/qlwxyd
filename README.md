@@ -41,7 +41,7 @@ PC可以用 smartsniff Wireshark 等抓取cookie
 
 微信扫下面二维码，打开后自动转跳阅读文章 空白页关闭后 重新打开 打开文章停5秒 手动返回上一页
 
-<img src="https://github.com/365360171/qlwxyd/blob/main/1.png" alt="Clash" width="200">
+<img src="https://github.com/365360171/qlwxyd/blob/main/2.png" alt="Clash" width="200">
 
 青龙面板新增环境变量：变量名称: wxyd  值:(你抓取的cookie)
 
